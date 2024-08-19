@@ -1,0 +1,104 @@
+
+light.jpg
+size: 2018,1504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bride_clockwise_light/bonus_vfx_b_01
+  rotate: false
+  xy: 2, 758
+  size: 432, 744
+  orig: 432, 744
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_02
+  rotate: false
+  xy: 2, 26
+  size: 432, 730
+  orig: 432, 730
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_05
+  rotate: false
+  xy: 436, 866
+  size: 432, 636
+  orig: 432, 636
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_06
+  rotate: false
+  xy: 436, 312
+  size: 432, 552
+  orig: 432, 552
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_09
+  rotate: false
+  xy: 1294, 2
+  size: 344, 336
+  orig: 344, 336
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_10
+  rotate: false
+  xy: 436, 2
+  size: 328, 308
+  orig: 328, 308
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_13
+  rotate: false
+  xy: 870, 142
+  size: 422, 430
+  orig: 422, 430
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_15
+  rotate: true
+  xy: 1300, 1092
+  size: 410, 472
+  orig: 410, 472
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_18
+  rotate: false
+  xy: 1294, 340
+  size: 420, 450
+  orig: 420, 450
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_20
+  rotate: false
+  xy: 870, 1042
+  size: 428, 460
+  orig: 428, 460
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_22
+  rotate: false
+  xy: 1640, 2
+  size: 376, 318
+  orig: 376, 318
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_23
+  rotate: false
+  xy: 870, 574
+  size: 420, 466
+  orig: 420, 466
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_25
+  rotate: true
+  xy: 1300, 792
+  size: 298, 468
+  orig: 298, 468
+  offset: 0, 0
+  index: -1
+bride_clockwise_light/bonus_vfx_b_26
+  rotate: false
+  xy: 1716, 322
+  size: 296, 468
+  orig: 296, 468
+  offset: 0, 0
+  index: -1

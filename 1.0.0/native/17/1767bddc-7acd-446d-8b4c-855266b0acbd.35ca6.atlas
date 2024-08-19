@@ -1,0 +1,202 @@
+
+zhongjiangfuhao.png
+size: 1734,776
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lig
+  rotate: false
+  xy: 1556, 356
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+win_glow_b
+  rotate: false
+  xy: 1611, 152
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+win_lattice_border/win_vfx_a_00
+  rotate: true
+  xy: 1698, 718
+  size: 56, 34
+  orig: 218, 262
+  offset: 59, 27
+  index: -1
+win_lattice_border/win_vfx_a_01
+  rotate: true
+  xy: 1556, 232
+  size: 122, 167
+  orig: 218, 262
+  offset: 5, 6
+  index: -1
+win_lattice_border/win_vfx_a_02
+  rotate: false
+  xy: 1556, 524
+  size: 140, 250
+  orig: 218, 262
+  offset: 5, 6
+  index: -1
+win_lattice_border/win_vfx_a_03
+  rotate: true
+  xy: 1359, 14
+  size: 208, 250
+  orig: 218, 262
+  offset: 5, 6
+  index: -1
+win_lattice_border/win_vfx_a_04
+  rotate: true
+  xy: 1106, 14
+  size: 208, 251
+  orig: 218, 262
+  offset: 5, 5
+  index: -1
+win_light_particle/win_vfx_b_01
+  rotate: false
+  xy: 2, 500
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_02
+  rotate: false
+  xy: 2, 224
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_03
+  rotate: false
+  xy: 224, 500
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_04
+  rotate: false
+  xy: 224, 224
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_05
+  rotate: true
+  xy: 2, 2
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_06
+  rotate: false
+  xy: 446, 500
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_07
+  rotate: false
+  xy: 446, 224
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_08
+  rotate: true
+  xy: 278, 2
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_09
+  rotate: false
+  xy: 668, 500
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_10
+  rotate: false
+  xy: 668, 224
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_11
+  rotate: true
+  xy: 554, 2
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_12
+  rotate: false
+  xy: 890, 500
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_13
+  rotate: false
+  xy: 890, 224
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_14
+  rotate: true
+  xy: 830, 2
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_15
+  rotate: false
+  xy: 1112, 500
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_16
+  rotate: false
+  xy: 1112, 224
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_42
+  rotate: false
+  xy: 1112, 224
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_17
+  rotate: false
+  xy: 1334, 500
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_43
+  rotate: false
+  xy: 1334, 500
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_18
+  rotate: false
+  xy: 1334, 224
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1
+win_light_particle/win_vfx_b_44
+  rotate: false
+  xy: 1334, 224
+  size: 220, 274
+  orig: 220, 274
+  offset: 0, 0
+  index: -1

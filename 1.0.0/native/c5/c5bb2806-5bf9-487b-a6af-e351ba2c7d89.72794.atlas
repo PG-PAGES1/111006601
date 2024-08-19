@@ -1,0 +1,139 @@
+
+skeleton.png
+size: 1746,586
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_flare_a
+  rotate: false
+  xy: 2, 13
+  size: 206, 151
+  orig: 206, 151
+  offset: 0, 0
+  index: -1
+bonus_glow_g
+  rotate: false
+  xy: 1366, 339
+  size: 245, 245
+  orig: 245, 245
+  offset: 0, 0
+  index: -1
+light/general_particle_a_00
+  rotate: true
+  xy: 2, 8
+  size: 3, 2
+  orig: 432, 200
+  offset: 0, 198
+  index: -1
+light/general_particle_a_27
+  rotate: true
+  xy: 2, 8
+  size: 3, 2
+  orig: 432, 200
+  offset: 0, 198
+  index: -1
+light/general_particle_a_01
+  rotate: true
+  xy: 1366, 205
+  size: 132, 126
+  orig: 432, 200
+  offset: 8, 19
+  index: -1
+light/general_particle_a_02
+  rotate: false
+  xy: 210, 22
+  size: 226, 142
+  orig: 432, 200
+  offset: 6, 18
+  index: -1
+light/general_particle_a_10
+  rotate: false
+  xy: 438, 2
+  size: 404, 164
+  orig: 432, 200
+  offset: 14, 6
+  index: -1
+light/general_particle_a_12
+  rotate: false
+  xy: 844, 10
+  size: 400, 172
+  orig: 432, 200
+  offset: 16, 3
+  index: -1
+light/general_particle_a_13
+  rotate: true
+  xy: 532, 182
+  size: 402, 176
+  orig: 432, 200
+  offset: 15, 2
+  index: -1
+light/general_particle_a_14
+  rotate: true
+  xy: 710, 184
+  size: 400, 178
+  orig: 432, 200
+  offset: 14, 1
+  index: -1
+light/general_particle_a_15
+  rotate: true
+  xy: 2, 166
+  size: 418, 180
+  orig: 432, 200
+  offset: 7, 1
+  index: -1
+light/general_particle_a_16
+  rotate: true
+  xy: 362, 168
+  size: 416, 168
+  orig: 432, 200
+  offset: 10, 14
+  index: -1
+light/general_particle_a_17
+  rotate: true
+  xy: 890, 186
+  size: 398, 172
+  orig: 432, 200
+  offset: 8, 14
+  index: -1
+light/general_particle_a_18
+  rotate: true
+  xy: 184, 166
+  size: 418, 176
+  orig: 432, 200
+  offset: 5, 12
+  index: -1
+light/general_particle_a_19
+  rotate: false
+  xy: 1246, 2
+  size: 392, 184
+  orig: 432, 200
+  offset: 14, 6
+  index: -1
+light/general_particle_a_22
+  rotate: true
+  xy: 1064, 188
+  size: 396, 192
+  orig: 432, 200
+  offset: 17, 7
+  index: -1
+light/general_particle_a_23
+  rotate: true
+  xy: 1258, 200
+  size: 384, 106
+  orig: 432, 200
+  offset: 16, 50
+  index: -1
+light/general_particle_a_24
+  rotate: true
+  xy: 1640, 168
+  size: 354, 98
+  orig: 432, 200
+  offset: 64, 28
+  index: -1
+light/general_particle_a_26
+  rotate: false
+  xy: 1640, 524
+  size: 104, 60
+  orig: 432, 200
+  offset: 290, 79
+  index: -1

@@ -1,0 +1,734 @@
+
+jiasu.png
+size: 1667,1543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 1249, 259
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+black1
+  rotate: false
+  xy: 1471, 210
+  size: 98, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+reel_accelerate_border_basemap/fast_base_a
+  rotate: true
+  xy: 493, 31
+  size: 47, 216
+  orig: 47, 216
+  offset: 0, 0
+  index: -1
+reel_accelerate_border_basemap/fast_glow_a
+  rotate: true
+  xy: 1405, 988
+  size: 63, 227
+  orig: 63, 227
+  offset: 0, 0
+  index: -1
+reel_accelerate_border_basemap/fast_glow_b
+  rotate: true
+  xy: 1405, 1053
+  size: 58, 236
+  orig: 58, 236
+  offset: 0, 0
+  index: -1
+reel_accelerate_border_basemap/reel_acceleration_border1
+  rotate: false
+  xy: 1, 922
+  size: 148, 620
+  orig: 148, 620
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_00
+  rotate: true
+  xy: 575, 790
+  size: 90, 356
+  orig: 105, 356
+  offset: 15, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_01
+  rotate: false
+  xy: 411, 122
+  size: 89, 356
+  orig: 105, 356
+  offset: 16, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_02
+  rotate: true
+  xy: 135, 31
+  size: 89, 356
+  orig: 105, 356
+  offset: 16, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_03
+  rotate: false
+  xy: 502, 122
+  size: 89, 356
+  orig: 105, 356
+  offset: 16, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_04
+  rotate: true
+  xy: 1047, 1005
+  size: 89, 356
+  orig: 105, 356
+  offset: 16, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_05
+  rotate: true
+  xy: 575, 698
+  size: 90, 356
+  orig: 105, 356
+  offset: 15, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_06
+  rotate: false
+  xy: 482, 644
+  size: 91, 356
+  orig: 105, 356
+  offset: 14, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_07
+  rotate: false
+  xy: 197, 644
+  size: 93, 356
+  orig: 105, 356
+  offset: 12, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_08
+  rotate: false
+  xy: 1357, 1113
+  size: 94, 356
+  orig: 105, 356
+  offset: 11, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_09
+  rotate: false
+  xy: 1453, 1113
+  size: 94, 356
+  orig: 105, 356
+  offset: 11, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_10
+  rotate: false
+  xy: 1549, 1113
+  size: 94, 356
+  orig: 105, 356
+  offset: 11, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_11
+  rotate: false
+  xy: 292, 644
+  size: 93, 356
+  orig: 105, 356
+  offset: 12, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_12
+  rotate: false
+  xy: 387, 644
+  size: 93, 356
+  orig: 105, 356
+  offset: 12, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_13
+  rotate: false
+  xy: 135, 122
+  size: 90, 356
+  orig: 105, 356
+  offset: 15, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_14
+  rotate: false
+  xy: 227, 122
+  size: 90, 356
+  orig: 105, 356
+  offset: 15, 0
+  index: -1
+reel_acceleration_border_light/fast_vfx_b_15
+  rotate: false
+  xy: 319, 122
+  size: 90, 356
+  orig: 105, 356
+  offset: 15, 0
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_00
+  rotate: true
+  xy: 775, 1
+  size: 55, 307
+  orig: 142, 340
+  offset: 87, 33
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_01
+  rotate: true
+  xy: 1357, 1471
+  size: 71, 309
+  orig: 142, 340
+  offset: 71, 31
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_02
+  rotate: true
+  xy: 1017, 544
+  size: 65, 309
+  orig: 142, 340
+  offset: 77, 31
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_03
+  rotate: true
+  xy: 1009, 611
+  size: 61, 309
+  orig: 142, 340
+  offset: 81, 31
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_04
+  rotate: true
+  xy: 593, 149
+  size: 71, 315
+  orig: 142, 340
+  offset: 71, 25
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_05
+  rotate: true
+  xy: 593, 80
+  size: 67, 319
+  orig: 142, 340
+  offset: 75, 21
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_06
+  rotate: true
+  xy: 1017, 487
+  size: 55, 323
+  orig: 142, 340
+  offset: 87, 17
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_07
+  rotate: true
+  xy: 920, 237
+  size: 59, 325
+  orig: 142, 340
+  offset: 83, 15
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_08
+  rotate: true
+  xy: 999, 361
+  size: 61, 327
+  orig: 142, 340
+  offset: 81, 13
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_09
+  rotate: true
+  xy: 981, 879
+  size: 65, 329
+  orig: 142, 340
+  offset: 77, 11
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_10
+  rotate: true
+  xy: 933, 812
+  size: 65, 329
+  orig: 142, 340
+  offset: 77, 11
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_11
+  rotate: true
+  xy: 1013, 946
+  size: 57, 331
+  orig: 142, 340
+  offset: 85, 9
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_12
+  rotate: true
+  xy: 1346, 927
+  size: 59, 302
+  orig: 142, 340
+  offset: 83, 36
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_13
+  rotate: true
+  xy: 1264, 795
+  size: 65, 306
+  orig: 142, 340
+  offset: 77, 34
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_14
+  rotate: true
+  xy: 1291, 728
+  size: 65, 306
+  orig: 142, 340
+  offset: 77, 33
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_15
+  rotate: true
+  xy: 1320, 665
+  size: 61, 306
+  orig: 142, 340
+  offset: 81, 32
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_16
+  rotate: true
+  xy: 981, 674
+  size: 69, 308
+  orig: 142, 340
+  offset: 73, 31
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_17
+  rotate: true
+  xy: 1342, 541
+  size: 59, 309
+  orig: 142, 340
+  offset: 83, 31
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_18
+  rotate: true
+  xy: 1312, 862
+  size: 63, 313
+  orig: 142, 340
+  offset: 79, 27
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_19
+  rotate: true
+  xy: 593, 222
+  size: 73, 319
+  orig: 142, 340
+  offset: 69, 21
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_20
+  rotate: true
+  xy: 914, 58
+  size: 55, 321
+  orig: 142, 340
+  offset: 87, 19
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_21
+  rotate: true
+  xy: 914, 178
+  size: 57, 325
+  orig: 142, 340
+  offset: 85, 15
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_22
+  rotate: true
+  xy: 920, 298
+  size: 61, 327
+  orig: 142, 340
+  offset: 81, 13
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_23
+  rotate: true
+  xy: 933, 745
+  size: 65, 329
+  orig: 142, 340
+  offset: 77, 11
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_24
+  rotate: true
+  xy: 1001, 424
+  size: 61, 329
+  orig: 142, 340
+  offset: 81, 11
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_25
+  rotate: true
+  xy: 914, 115
+  size: 61, 325
+  orig: 142, 340
+  offset: 81, 15
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_26
+  rotate: true
+  xy: 593, 297
+  size: 75, 325
+  orig: 142, 340
+  offset: 67, 15
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_27
+  rotate: true
+  xy: 1328, 602
+  size: 61, 305
+  orig: 142, 340
+  offset: 81, 35
+  index: -1
+reel_acceleration_border_particle/fast_vfx_c_28
+  rotate: true
+  xy: 1342, 482
+  size: 57, 306
+  orig: 142, 340
+  offset: 85, 33
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_00
+  rotate: true
+  xy: 1332, 432
+  size: 22, 182
+  orig: 22, 182
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_01
+  rotate: true
+  xy: 1332, 456
+  size: 24, 230
+  orig: 24, 230
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_02
+  rotate: true
+  xy: 477, 1
+  size: 28, 296
+  orig: 28, 296
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_03
+  rotate: true
+  xy: 103, 1
+  size: 28, 372
+  orig: 28, 372
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_04
+  rotate: false
+  xy: 103, 62
+  size: 30, 410
+  orig: 30, 410
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_05
+  rotate: true
+  xy: 599, 974
+  size: 34, 412
+  orig: 34, 412
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_06
+  rotate: true
+  xy: 197, 560
+  size: 36, 410
+  orig: 36, 410
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_07
+  rotate: true
+  xy: 151, 480
+  size: 36, 408
+  orig: 36, 408
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_08
+  rotate: true
+  xy: 609, 528
+  size: 38, 406
+  orig: 38, 406
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_09
+  rotate: true
+  xy: 593, 488
+  size: 38, 406
+  orig: 38, 406
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_10
+  rotate: true
+  xy: 151, 518
+  size: 40, 406
+  orig: 40, 406
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_11
+  rotate: true
+  xy: 609, 568
+  size: 40, 406
+  orig: 40, 406
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_12
+  rotate: true
+  xy: 197, 598
+  size: 44, 404
+  orig: 44, 404
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_13
+  rotate: true
+  xy: 575, 654
+  size: 42, 404
+  orig: 42, 404
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_14
+  rotate: true
+  xy: 575, 928
+  size: 44, 404
+  orig: 44, 404
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_15
+  rotate: true
+  xy: 575, 882
+  size: 44, 404
+  orig: 44, 404
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_16
+  rotate: false
+  xy: 105, 514
+  size: 44, 406
+  orig: 44, 406
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_17
+  rotate: false
+  xy: 151, 594
+  size: 44, 406
+  orig: 44, 406
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_18
+  rotate: true
+  xy: 593, 446
+  size: 40, 406
+  orig: 40, 406
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_19
+  rotate: true
+  xy: 603, 610
+  size: 42, 404
+  orig: 42, 404
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_20
+  rotate: true
+  xy: 593, 410
+  size: 34, 404
+  orig: 34, 404
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_21
+  rotate: true
+  xy: 593, 374
+  size: 34, 404
+  orig: 34, 404
+  offset: 0, 0
+  index: -1
+reel_acceleration_border_particle01/bonus_particle_b_22
+  rotate: false
+  xy: 1320, 637
+  size: 6, 26
+  orig: 6, 26
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_01
+  rotate: false
+  xy: 493, 86
+  size: 72, 34
+  orig: 72, 34
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_02
+  rotate: false
+  xy: 1564, 412
+  size: 96, 68
+  orig: 96, 68
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_03
+  rotate: true
+  xy: 1551, 312
+  size: 98, 100
+  orig: 98, 100
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_04
+  rotate: false
+  xy: 1351, 312
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_05
+  rotate: false
+  xy: 1451, 312
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_06
+  rotate: true
+  xy: 1351, 212
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_07
+  rotate: false
+  xy: 1241, 117
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_08
+  rotate: true
+  xy: 1341, 112
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_09
+  rotate: true
+  xy: 1341, 12
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_10
+  rotate: false
+  xy: 1461, 90
+  size: 98, 118
+  orig: 98, 118
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_11
+  rotate: false
+  xy: 1241, 1
+  size: 98, 114
+  orig: 98, 114
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_12
+  rotate: false
+  xy: 1461, 4
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: -1
+reel_acceleration_sweep_light/fast_shine_a_13
+  rotate: false
+  xy: 1572, 808
+  size: 94, 52
+  orig: 94, 52
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_00
+  rotate: true
+  xy: 151, 1002
+  size: 92, 446
+  orig: 92, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_01
+  rotate: false
+  xy: 555, 1096
+  size: 94, 446
+  orig: 94, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_02
+  rotate: false
+  xy: 1, 474
+  size: 102, 446
+  orig: 102, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_03
+  rotate: false
+  xy: 151, 1096
+  size: 100, 446
+  orig: 100, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_04
+  rotate: false
+  xy: 1, 26
+  size: 100, 446
+  orig: 100, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_05
+  rotate: false
+  xy: 253, 1096
+  size: 100, 446
+  orig: 100, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_06
+  rotate: false
+  xy: 355, 1096
+  size: 100, 446
+  orig: 100, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_07
+  rotate: false
+  xy: 457, 1096
+  size: 96, 446
+  orig: 96, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_08
+  rotate: false
+  xy: 743, 1096
+  size: 88, 446
+  orig: 88, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_09
+  rotate: false
+  xy: 833, 1096
+  size: 88, 446
+  orig: 88, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_10
+  rotate: false
+  xy: 923, 1096
+  size: 86, 446
+  orig: 86, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_11
+  rotate: true
+  xy: 599, 1010
+  size: 84, 446
+  orig: 84, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_12
+  rotate: false
+  xy: 1099, 1096
+  size: 84, 446
+  orig: 84, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_13
+  rotate: false
+  xy: 1185, 1096
+  size: 84, 446
+  orig: 84, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_14
+  rotate: false
+  xy: 1271, 1096
+  size: 84, 446
+  orig: 84, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_15
+  rotate: false
+  xy: 1011, 1096
+  size: 86, 446
+  orig: 86, 446
+  offset: 0, 0
+  index: -1
+reel_acceleration_trajectory01/fast_vfx_a_16
+  rotate: false
+  xy: 651, 1096
+  size: 90, 446
+  orig: 90, 446
+  offset: 0, 0
+  index: -1

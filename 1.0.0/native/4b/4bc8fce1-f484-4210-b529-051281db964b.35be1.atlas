@@ -1,0 +1,188 @@
+
+mianfeianniu.png
+size: 1319,526
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus/info_particle_a_01
+  rotate: false
+  xy: 418, 108
+  size: 400, 52
+  orig: 432, 140
+  offset: 15, 1
+  index: -1
+bonus/info_particle_a_02
+  rotate: false
+  xy: 500, 284
+  size: 410, 58
+  orig: 432, 140
+  offset: 10, 1
+  index: -1
+bonus/info_particle_a_03
+  rotate: false
+  xy: 2, 261
+  size: 414, 60
+  orig: 432, 140
+  offset: 9, 4
+  index: -1
+bonus/info_particle_a_04
+  rotate: false
+  xy: 2, 199
+  size: 414, 60
+  orig: 432, 140
+  offset: 10, 9
+  index: -1
+bonus/info_particle_a_05
+  rotate: false
+  xy: 533, 464
+  size: 416, 60
+  orig: 432, 140
+  offset: 9, 15
+  index: -1
+bonus/info_particle_a_06
+  rotate: false
+  xy: 2, 13
+  size: 412, 60
+  orig: 432, 140
+  offset: 13, 20
+  index: -1
+bonus/info_particle_a_07
+  rotate: false
+  xy: 533, 404
+  size: 414, 58
+  orig: 432, 140
+  offset: 12, 26
+  index: -1
+bonus/info_particle_a_08
+  rotate: false
+  xy: 2, 137
+  size: 414, 60
+  orig: 432, 140
+  offset: 11, 30
+  index: -1
+bonus/info_particle_a_09
+  rotate: false
+  xy: 2, 75
+  size: 414, 60
+  orig: 432, 140
+  offset: 11, 34
+  index: -1
+bonus/info_particle_a_10
+  rotate: false
+  xy: 500, 344
+  size: 412, 58
+  orig: 432, 140
+  offset: 12, 39
+  index: -1
+bonus/info_particle_a_11
+  rotate: false
+  xy: 418, 224
+  size: 410, 58
+  orig: 432, 140
+  offset: 11, 43
+  index: -1
+bonus/info_particle_a_12
+  rotate: false
+  xy: 418, 162
+  size: 406, 60
+  orig: 432, 140
+  offset: 11, 47
+  index: -1
+bonus/info_particle_a_13
+  rotate: false
+  xy: 418, 48
+  size: 376, 58
+  orig: 432, 140
+  offset: 12, 53
+  index: -1
+bonus/info_particle_a_14
+  rotate: false
+  xy: 914, 326
+  size: 376, 56
+  orig: 432, 140
+  offset: 12, 59
+  index: -1
+bonus/info_particle_a_15
+  rotate: false
+  xy: 912, 270
+  size: 376, 54
+  orig: 432, 140
+  offset: 13, 64
+  index: -1
+bonus/info_particle_a_16
+  rotate: false
+  xy: 830, 216
+  size: 372, 52
+  orig: 432, 140
+  offset: 17, 70
+  index: -1
+bonus/info_particle_a_17
+  rotate: false
+  xy: 949, 384
+  size: 368, 48
+  orig: 432, 140
+  offset: 20, 76
+  index: -1
+bonus/info_particle_a_18
+  rotate: false
+  xy: 951, 476
+  size: 360, 48
+  orig: 432, 140
+  offset: 21, 82
+  index: -1
+bonus/info_particle_a_19
+  rotate: false
+  xy: 416, 2
+  size: 356, 44
+  orig: 432, 140
+  offset: 24, 89
+  index: -1
+bonus/info_particle_a_20
+  rotate: false
+  xy: 951, 434
+  size: 334, 40
+  orig: 432, 140
+  offset: 30, 98
+  index: -1
+bonus/info_particle_a_21
+  rotate: false
+  xy: 826, 190
+  size: 320, 24
+  orig: 432, 140
+  offset: 38, 112
+  index: -1
+bonus_button_bar
+  rotate: false
+  xy: 2, 323
+  size: 496, 90
+  orig: 496, 90
+  offset: 0, 0
+  index: -1
+bonus_flare_a
+  rotate: false
+  xy: 1091, 37
+  size: 206, 151
+  orig: 206, 151
+  offset: 0, 0
+  index: -1
+bonus_glow_a
+  rotate: false
+  xy: 826, 134
+  size: 263, 54
+  orig: 263, 54
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 2, 415
+  size: 529, 109
+  orig: 529, 109
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 820, 23
+  size: 109, 137
+  orig: 110, 137
+  offset: 1, 0
+  index: -1

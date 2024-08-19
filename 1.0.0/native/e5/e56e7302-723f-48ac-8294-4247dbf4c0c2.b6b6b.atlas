@@ -1,0 +1,468 @@
+
+tanchuang.png
+size: 1966,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_animation/_0000_bonus_vfx_a_38
+  rotate: false
+  xy: 1056, 448
+  size: 315, 120
+  orig: 370, 181
+  offset: 27, 31
+  index: -1
+bonus_animation/_0001_bonus_vfx_a_37
+  rotate: false
+  xy: 1056, 570
+  size: 339, 144
+  orig: 370, 181
+  offset: 15, 18
+  index: -1
+bonus_animation/_0002_bonus_vfx_a_36
+  rotate: false
+  xy: 362, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0003_bonus_vfx_a_35
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0004_bonus_vfx_a_34
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0005_bonus_vfx_a_33
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0006_bonus_vfx_a_32
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0007_bonus_vfx_a_31
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0008_bonus_vfx_a_30
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0009_bonus_vfx_a_29
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0010_bonus_vfx_a_28
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0011_bonus_vfx_a_27
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0012_bonus_vfx_a_26
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0013_bonus_vfx_a_25
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0014_bonus_vfx_a_24
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0015_bonus_vfx_a_23
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0016_bonus_vfx_a_22
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0017_bonus_vfx_a_21
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0018_bonus_vfx_a_20
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0019_bonus_vfx_a_19
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0020_bonus_vfx_a_18
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0021_bonus_vfx_a_17
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0022_bonus_vfx_a_16
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0023_bonus_vfx_a_15
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0024_bonus_vfx_a_14
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0025_bonus_vfx_a_13
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0026_bonus_vfx_a_12
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0027_bonus_vfx_a_11
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0028_bonus_vfx_a_10
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0029_bonus_vfx_a_09
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0030_bonus_vfx_a_08
+  rotate: false
+  xy: 709, 562
+  size: 345, 152
+  orig: 370, 181
+  offset: 12, 14
+  index: -1
+bonus_animation/_0031_bonus_vfx_a_07
+  rotate: false
+  xy: 2, 404
+  size: 348, 152
+  orig: 370, 181
+  offset: 11, 14
+  index: -1
+bonus_animation/_0032_bonus_vfx_a_06
+  rotate: false
+  xy: 2, 558
+  size: 358, 156
+  orig: 370, 181
+  offset: 9, 13
+  index: -1
+bonus_animation/_0033_bonus_vfx_a_05
+  rotate: false
+  xy: 1397, 551
+  size: 330, 163
+  orig: 370, 181
+  offset: 7, 9
+  index: -1
+bonus_animation/_0034_bonus_vfx_a_04
+  rotate: false
+  xy: 1729, 547
+  size: 232, 167
+  orig: 370, 181
+  offset: 4, 8
+  index: -1
+bonus_animation/_0035_bonus_vfx_a_03
+  rotate: false
+  xy: 1157, 9
+  size: 147, 171
+  orig: 370, 181
+  offset: 1, 6
+  index: -1
+bonus_animation/_0036_bonus_vfx_a_02
+  rotate: false
+  xy: 1858, 92
+  size: 106, 175
+  orig: 370, 181
+  offset: 1, 4
+  index: -1
+bonus_animation/_0037_bonus_vfx_a_01
+  rotate: true
+  xy: 1613, 36
+  size: 106, 176
+  orig: 370, 181
+  offset: 1, 2
+  index: -1
+bonus_animation/_0038_bonus_vfx_a_00
+  rotate: true
+  xy: 1613, 36
+  size: 106, 176
+  orig: 370, 181
+  offset: 1, 2
+  index: -1
+bonus_flare_c
+  rotate: false
+  xy: 2, 125
+  size: 222, 277
+  orig: 222, 277
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_00
+  rotate: false
+  xy: 946, 457
+  size: 104, 103
+  orig: 104, 103
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_01
+  rotate: false
+  xy: 2, 2
+  size: 136, 121
+  orig: 136, 121
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_02
+  rotate: false
+  xy: 1306, 39
+  size: 228, 127
+  orig: 228, 127
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_03
+  rotate: true
+  xy: 226, 122
+  size: 280, 127
+  orig: 280, 127
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_04
+  rotate: true
+  xy: 355, 2
+  size: 282, 131
+  orig: 282, 131
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_05
+  rotate: false
+  xy: 1060, 182
+  size: 284, 131
+  orig: 284, 131
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_06
+  rotate: false
+  xy: 645, 286
+  size: 286, 135
+  orig: 286, 135
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_07
+  rotate: false
+  xy: 629, 147
+  size: 286, 137
+  orig: 286, 137
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_08
+  rotate: false
+  xy: 656, 423
+  size: 288, 137
+  orig: 288, 137
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_09
+  rotate: false
+  xy: 355, 286
+  size: 288, 139
+  orig: 288, 139
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_10
+  rotate: false
+  xy: 1667, 406
+  size: 290, 139
+  orig: 290, 139
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_11
+  rotate: false
+  xy: 1373, 408
+  size: 292, 141
+  orig: 292, 141
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_12
+  rotate: false
+  xy: 362, 427
+  size: 292, 133
+  orig: 292, 133
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_13
+  rotate: false
+  xy: 1630, 269
+  size: 276, 135
+  orig: 276, 135
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_14
+  rotate: true
+  xy: 488, 6
+  size: 278, 139
+  orig: 278, 139
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_15
+  rotate: false
+  xy: 1350, 271
+  size: 278, 135
+  orig: 278, 135
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_16
+  rotate: true
+  xy: 933, 147
+  size: 274, 125
+  orig: 274, 125
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_17
+  rotate: false
+  xy: 1346, 168
+  size: 276, 101
+  orig: 276, 101
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_18
+  rotate: false
+  xy: 1060, 315
+  size: 288, 131
+  orig: 288, 131
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_19
+  rotate: false
+  xy: 905, 2
+  size: 250, 143
+  orig: 250, 143
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_20
+  rotate: false
+  xy: 629, 2
+  size: 274, 143
+  orig: 274, 143
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_21
+  rotate: false
+  xy: 1624, 144
+  size: 232, 123
+  orig: 232, 123
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_22
+  rotate: false
+  xy: 140, 31
+  size: 208, 89
+  orig: 208, 89
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_23
+  rotate: true
+  xy: 1536, 42
+  size: 124, 75
+  orig: 124, 75
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_24
+  rotate: false
+  xy: 140, 8
+  size: 104, 21
+  orig: 104, 21
+  offset: 0, 0
+  index: -1
+bonus_particle/bonus_particle_c_25
+  rotate: false
+  xy: 1060, 151
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1

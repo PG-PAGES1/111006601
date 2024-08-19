@@ -1,0 +1,167 @@
+
+bg_strike.png
+size: 675,675
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_tbf_arm_l
+  rotate: false
+  xy: 453, 445
+  size: 175, 228
+  orig: 182, 230
+  offset: 0, 1
+  index: -1
+bg_tbf_arm_r
+  rotate: false
+  xy: 253, 409
+  size: 198, 264
+  orig: 199, 266
+  offset: 1, 1
+  index: -1
+bg_tbf_ball_l
+  rotate: false
+  xy: 303, 15
+  size: 83, 82
+  orig: 88, 84
+  offset: 4, 1
+  index: -1
+bg_tbf_ball_mid
+  rotate: false
+  xy: 539, 172
+  size: 134, 100
+  orig: 136, 101
+  offset: 2, 0
+  index: -1
+bg_tbf_ball_r
+  rotate: false
+  xy: 216, 13
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+bg_tbf_body
+  rotate: false
+  xy: 2, 349
+  size: 249, 324
+  orig: 250, 324
+  offset: 0, 0
+  index: -1
+bg_tbf_eye_l
+  rotate: true
+  xy: 630, 621
+  size: 52, 36
+  orig: 56, 38
+  offset: 3, 0
+  index: -1
+bg_tbf_eye_r
+  rotate: false
+  xy: 441, 44
+  size: 49, 38
+  orig: 52, 38
+  offset: 2, 0
+  index: -1
+bg_tbf_eyebrow_l
+  rotate: false
+  xy: 388, 2
+  size: 57, 24
+  orig: 59, 25
+  offset: 1, 1
+  index: -1
+bg_tbf_eyebrow_r
+  rotate: false
+  xy: 470, 246
+  size: 53, 26
+  orig: 64, 31
+  offset: 6, 4
+  index: -1
+bg_tbf_hand_l
+  rotate: false
+  xy: 2, 2
+  size: 96, 103
+  orig: 97, 104
+  offset: 0, 0
+  index: -1
+bg_tbf_hand_r
+  rotate: true
+  xy: 539, 70
+  size: 100, 106
+  orig: 100, 107
+  offset: 0, 0
+  index: -1
+bg_tbf_hat
+  rotate: false
+  xy: 253, 246
+  size: 215, 161
+  orig: 217, 167
+  offset: 2, 1
+  index: -1
+bg_tbf_hat_l
+  rotate: false
+  xy: 393, 84
+  size: 144, 160
+  orig: 146, 161
+  offset: 0, 0
+  index: -1
+bg_tbf_hat_r
+  rotate: true
+  xy: 230, 99
+  size: 145, 161
+  orig: 145, 162
+  offset: 0, 1
+  index: -1
+bg_tbf_head
+  rotate: false
+  xy: 2, 107
+  size: 226, 240
+  orig: 227, 242
+  offset: 1, 1
+  index: -1
+bg_tbf_mouth
+  rotate: true
+  xy: 100, 3
+  size: 102, 114
+  orig: 103, 115
+  offset: 1, 1
+  index: -1
+bg_tbf_nose
+  rotate: false
+  xy: 388, 28
+  size: 51, 54
+  orig: 59, 57
+  offset: 4, 3
+  index: -1
+bg_tbf_pear01_r
+  rotate: true
+  xy: 630, 579
+  size: 40, 30
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+bg_tbf_pearl01_l
+  rotate: false
+  xy: 630, 548
+  size: 30, 29
+  orig: 32, 34
+  offset: 1, 4
+  index: -1
+bg_tbf_pearl02_l
+  rotate: false
+  xy: 447, 2
+  size: 40, 40
+  orig: 47, 43
+  offset: 4, 1
+  index: -1
+bg_tbf_pearl02_r
+  rotate: true
+  xy: 492, 43
+  size: 39, 45
+  orig: 47, 50
+  offset: 4, 1
+  index: -1
+bg_tbf_ribbon
+  rotate: true
+  xy: 470, 274
+  size: 169, 160
+  orig: 176, 169
+  offset: 1, 8
+  index: -1

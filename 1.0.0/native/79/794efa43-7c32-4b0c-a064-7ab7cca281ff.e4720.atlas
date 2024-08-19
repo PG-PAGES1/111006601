@@ -1,0 +1,209 @@
+
+bg_character_brideselect.png
+size: 621,621
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_select_arm_l
+  rotate: true
+  xy: 2, 117
+  size: 231, 127
+  orig: 232, 127
+  offset: 0, 0
+  index: -1
+bg_select_arm_r
+  rotate: false
+  xy: 215, 416
+  size: 210, 127
+  orig: 211, 127
+  offset: 0, 0
+  index: -1
+bg_select_armfill_l
+  rotate: true
+  xy: 363, 334
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+bg_select_armfill_r
+  rotate: true
+  xy: 318, 234
+  size: 76, 35
+  orig: 76, 36
+  offset: 0, 1
+  index: -1
+bg_select_ball_l
+  rotate: false
+  xy: 231, 147
+  size: 88, 76
+  orig: 88, 76
+  offset: 0, 0
+  index: -1
+bg_select_ball_mid
+  rotate: false
+  xy: 2, 2
+  size: 132, 113
+  orig: 132, 114
+  offset: 0, 0
+  index: -1
+bg_select_ball_r
+  rotate: true
+  xy: 246, 54
+  size: 91, 76
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+bg_select_eye_l
+  rotate: false
+  xy: 545, 330
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+bg_select_eye_r
+  rotate: false
+  xy: 436, 377
+  size: 49, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+bg_select_eyeblink01_l
+  rotate: false
+  xy: 363, 287
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+bg_select_eyeblink01_r
+  rotate: false
+  xy: 487, 377
+  size: 49, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+bg_select_eyeblink02_l
+  rotate: false
+  xy: 355, 240
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+bg_select_eyeblink02_r
+  rotate: false
+  xy: 538, 377
+  size: 49, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+bg_select_eyebrow_l
+  rotate: false
+  xy: 436, 346
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+bg_select_eyebrow_r
+  rotate: true
+  xy: 406, 354
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+bg_select_hand_l
+  rotate: false
+  xy: 246, 19
+  size: 70, 33
+  orig: 72, 33
+  offset: 1, 0
+  index: -1
+bg_select_hand_r
+  rotate: true
+  xy: 321, 172
+  size: 60, 34
+  orig: 64, 34
+  offset: 1, 0
+  index: -1
+bg_select_hat01_l
+  rotate: false
+  xy: 357, 199
+  size: 36, 39
+  orig: 37, 41
+  offset: 1, 2
+  index: -1
+bg_select_hat01_r
+  rotate: true
+  xy: 357, 168
+  size: 29, 38
+  orig: 36, 39
+  offset: 2, 1
+  index: -1
+bg_select_hat02_l
+  rotate: false
+  xy: 400, 260
+  size: 24, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+bg_select_hat02_r
+  rotate: false
+  xy: 589, 396
+  size: 24, 27
+  orig: 24, 28
+  offset: 0, 1
+  index: -1
+bg_select_hat_back
+  rotate: true
+  xy: 131, 145
+  size: 203, 98
+  orig: 205, 98
+  offset: 1, 0
+  index: -1
+bg_select_hat_base
+  rotate: false
+  xy: 427, 425
+  size: 180, 118
+  orig: 187, 118
+  offset: 6, 0
+  index: -1
+bg_select_hat_l
+  rotate: true
+  xy: 136, 7
+  size: 136, 108
+  orig: 137, 109
+  offset: 0, 1
+  index: -1
+bg_select_hat_r
+  rotate: false
+  xy: 231, 312
+  size: 130, 102
+  orig: 130, 102
+  offset: 0, 0
+  index: -1
+bg_select_head
+  rotate: false
+  xy: 2, 350
+  size: 211, 193
+  orig: 212, 193
+  offset: 0, 0
+  index: -1
+bg_select_mouth
+  rotate: false
+  xy: 231, 225
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+bg_select_nose
+  rotate: false
+  xy: 493, 339
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+bg_select_ribbon
+  rotate: false
+  xy: 2, 545
+  size: 613, 74
+  orig: 613, 78
+  offset: 0, 4
+  index: -1

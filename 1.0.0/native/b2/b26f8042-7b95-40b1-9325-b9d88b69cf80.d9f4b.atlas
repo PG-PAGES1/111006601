@@ -1,0 +1,48 @@
+
+coin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin/coin_00
+  rotate: false
+  xy: 2, 209
+  size: 106, 102
+  orig: 118, 114
+  offset: 6, 6
+  index: -1
+coin/coin_01
+  rotate: true
+  xy: 110, 205
+  size: 106, 102
+  orig: 118, 114
+  offset: 6, 6
+  index: -1
+coin/coin_02
+  rotate: true
+  xy: 212, 100
+  size: 103, 99
+  orig: 116, 112
+  offset: 6, 6
+  index: -1
+coin/coin_03
+  rotate: false
+  xy: 214, 216
+  size: 96, 95
+  orig: 114, 110
+  offset: 9, 7
+  index: -1
+coin/coin_04
+  rotate: false
+  xy: 106, 102
+  size: 104, 101
+  orig: 118, 114
+  offset: 7, 6
+  index: -1
+coin/coin_05
+  rotate: true
+  xy: 2, 101
+  size: 106, 102
+  orig: 118, 114
+  offset: 6, 6
+  index: -1
